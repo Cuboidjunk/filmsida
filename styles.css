@@ -1,0 +1,19 @@
+body {
+    background-color: lightgreen;
+}
+
+/* This is the h1 selector */
+h1 {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 1.7rem;
+    color: darkblue;
+    background-color: yellow;
+}
+
+p {
+    font-family: 'Courier New', sans-serif;
+    font-size: 1.6rem;
+    color: indigo;
+    background-color: yellow;
+    max-width: 500px;
+}
