@@ -1,19 +1,17 @@
 body {
-    background-color: lightgreen;
+    background-color: yellow;
 }
 
 /* This is the h1 selector */
 h1 {
-    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-family: Verdana;
     font-size: 1.7rem;
-    color: darkblue;
-    background-color: yellow;
+    background-color: white;
 }
 
 p {
-    font-family: 'Courier New', sans-serif;
-    font-size: 1.6rem;
-    color: indigo;
-    background-color: yellow;
+    font-family: Verdana;
+    font-size: 1.2rem;
+    background-color: white;
     max-width: 500px;
 }
